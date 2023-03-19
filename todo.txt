@@ -1,0 +1,10 @@
+Init canvas ✅
+Draw BG ✅
+Draw apple ✅
+Draw snake ✅
+Move snake ✅
+Collision snake / apple & snake / canvas ✅
+Draw new segments ✅
+Check if the snake eat himself ✅
+Add game info & score ✅
+bug movement ✅
